@@ -1,4 +1,4 @@
-# Spring Boot simple example
+# Spring Security simple example
 The example above shows simple example of integration of Spring MVC app with Spring Security
 
 This is example based on https://spring.io/guides/gs/securing-web
@@ -15,7 +15,7 @@ Libraries
 ---------
 
 * Spring Boot 1.4.2
-* Spring Security for securing
+* Spring Security for security
 * Thymeleaf for views
 * Maven for build
 
